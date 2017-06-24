@@ -5,7 +5,8 @@
   And We had saved smi file, analysed and categorized.
   
   Finally, We have matched movie information with movie subtitles.
-    And We found some correlation. Such as 'A story that women in their 20s might like', 'Stories that 50s like' .. etc
+    And We found some correlation.
+    Such as 'A story that women in their 20s might like', 'Stories that 50s like' .. etc
   
   Although it is not accurate, we have come up with a plausible result through analysis
 ``` 
