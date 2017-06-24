@@ -22,8 +22,11 @@ src/common.factory
 ```
 ```
 src/Crawling.dao
-  MoiveDAO : connect db, making dao from crawling data(moive information, such as movie id, movie pub_date.. etc)
-  MoiveScoreDAO : connect db, making dao from crawling data(moviescore information, such as getscore_male,getscore_30.. etc)
+  MoiveDAO : connect db, making dao from crawling data
+  (moive information, such as movie id, movie pub_date.. etc)
+  
+  MoiveScoreDAO : connect db, making dao from crawling data
+  (moviescore information, such as getscore_male,getscore_30.. etc)
 ```
 ```
  src/Crawiling.exe
